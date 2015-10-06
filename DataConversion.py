@@ -13,4 +13,7 @@ print set1
 string = "1+2*4"
 print eval(string)
 
+string = "aaaa"
+print string.count('a')
+
 #http://www.tutorialspoint.com/python/python_variable_types.htm
